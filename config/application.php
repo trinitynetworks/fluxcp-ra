@@ -267,14 +267,14 @@ return array(
 			'status-xml' => 'View Status as XML'
 		),
 		'logdata' => array(
-			//'char'    => 'Characters',
+			'char'    => 'Characters',
 			'inter'   => 'Interactions',
 			'command' => 'Commands',
 			'branch'  => 'Branches',
 			'chat'    => 'Chat Messages',
 			'login'   => 'Logins',
 			'mvp'     => 'MVP',
-			//'npc'     => 'NPC',
+			'npc'     => 'NPC',
 			'pick'    => 'Item Picks',
 			'zeny'    => 'Zeny'
 		),

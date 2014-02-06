@@ -558,6 +558,26 @@ return array(
 	'InterLogNotFound'         => 'No Interactions logs found.',
 	'InterLogDateLabel'        => 'Date / Time',
 	'InterLogLabel'            => 'Interactions Log',
+	//	- logdata/char
+	'CharLogTitle'            => 'List Character Log',
+	'CharLogHeading'          => 'Character Log',
+	'CharLogNotFound'         => 'No character logs found.',
+	'CharLogDateLabel'        => 'Date / Time',
+	'CharLogMsgLabel'         => 'Action',
+	'CharLogAccountIDLabel'   => 'Account ID',
+	'CharLogCharNumLabel'     => 'Character slot',
+	'CharLogCharNameLabel'    => 'Character Name',
+	//	- logdata/npc
+	'NPCLogTitle'            => 'List NPC Log',
+	'NPCLogHeading'          => 'NPC Log',
+	'NPCLogNotFound'         => 'No npc logs found.',
+	'NPCLogIDLabel'          => 'NPC ID',
+	'NPCLogDateLabel'        => 'Date / Time',
+	'NPCLogAccountIDLabel'   => 'Account ID',
+	'NPCLogCharIDLabel'      => 'Character ID',
+	'NPCLogCharNameLabel'    => 'Character Name',
+	'NPCLogMapLabel'         => 'Map',
+	'NPCLogMsgLabel'         => 'Message',
 	
 	// Module: mail
 	// - mail/index
