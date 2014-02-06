@@ -530,6 +530,33 @@ return array(
 	'ZenyLogTypeLabel'        => 'Type',
 	'ZenyLogAmountLabel'      => 'Amount',
 	'ZenyLogMapLabel'         => 'Map',
+	//	- logdata/mvp
+	'MVPLogTitle'            => 'List MVP Log',
+	'MVPLogHeading'          => 'MVP Log',
+	'MVPLogNotFound'         => 'No MVP logs found.',
+	'MVPLogIDLabel'          => 'MVP Log ID',
+	'MVPLogDateLabel'        => 'Date / Time',
+	'MVPLogCharacterLabel'   => 'Character ID',
+	'MVPLogMonsterLabel'     => 'MVP Monster',
+	'MVPLogPrizeLabel'       => 'MVP Prize',
+	'MVPLogExpLabel'         => 'MVP Experience',
+	'MVPLogMapLabel'         => 'Map',
+	//	- logdata/branch
+	'BranchLogTitle'            => 'List Branch Log',
+	'BranchLogHeading'          => 'Branch Log',
+	'BranchLogNotFound'         => 'No branch logs found.',
+	'BranchLogIDLabel'          => 'Branch Log ID',
+	'BranchLogDateLabel'        => 'Date / Time',
+	'BranchLogAccountIDLabel'   => 'Account ID',
+	'BranchLogCharIDLabel'      => 'Char ID',
+	'BranchLogCharNameLabel'    => 'Char Name',
+	'BranchLogMapLabel'         => 'Map',
+	//	- logdata/inter
+	'InterLogTitle'            => 'List of Interactions Log',
+	'InterLogHeading'          => 'Interactions Log',
+	'InterLogNotFound'         => 'No Interactions logs found.',
+	'InterLogDateLabel'        => 'Date / Time',
+	'InterLogLabel'            => 'Interactions Log',
 	
 	// Module: mail
 	// - mail/index

@@ -268,12 +268,12 @@ return array(
 		),
 		'logdata' => array(
 			//'char'    => 'Characters',
-			//'inter'   => 'Interactions',
+			'inter'   => 'Interactions',
 			'command' => 'Commands',
-			//'branch'  => 'Branches',
+			'branch'  => 'Branches',
 			'chat'    => 'Chat Messages',
 			'login'   => 'Logins',
-			//'mvp'     => 'MVP',
+			'mvp'     => 'MVP',
 			//'npc'     => 'NPC',
 			'pick'    => 'Item Picks',
 			'zeny'    => 'Zeny'
