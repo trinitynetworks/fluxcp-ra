@@ -44,7 +44,7 @@
 				<span class="not-applicable"><?php echo htmlspecialchars(Flux::message('NoneLabel')) ?></span>
 			<?php endif ?>
 		</td>
-		<td align="center"><?php echo htmlspecialchars($npc->msg) ?></td>
+		<td align="center"><?php echo htmlspecialchars($npc->mes) ?></td>
 		
 	</tr>
 	<?php endforeach ?>
