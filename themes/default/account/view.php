@@ -72,7 +72,9 @@
 	</tr>
 	<tr>
 		<th><?php echo htmlspecialchars(Flux::message('AccountBirthdateLabel')) ?></th>
-		<td colspan="3"><?php echo $account->birthdate ?></td>
+		<td><?php echo $account->birthdate ?></td>
+		<th><?php echo htmlspecialchars(Flux::message('AccountVIPTimeLabel')) ?></th>
+		<td><?php echo $account->vip_time ?></td>
 	</tr>
 	<tr>
 		<th><?php echo htmlspecialchars(Flux::message('LastLoginDateLabel')) ?></th>

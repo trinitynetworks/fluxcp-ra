@@ -140,6 +140,7 @@ return array(
 	'AccountEmailLabel'       => 'E-mail Address',
 	'AccountGenderLabel'      => 'Gender',
 	'AccountBirthdateLabel'   => 'Birthdate',
+	'AccountVIPTimeLabel'     => 'VIP Time',
 	'AccountSecurityLabel'    => 'Security Code',
 	'AccountCreateButton'     => 'Create My Account',
 	'AccountInvalidChars'     => "A username can only contain these characters: '%s'",
